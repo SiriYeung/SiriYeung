@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+.hanfu1 {
+  width: 300px;
+}
+
+.float-left {
+  float: left;
+  margin: 20px;
+}
+
+.clear {
+  clear: both;
+}
+
+body  {
+  background-image: url(网页背景.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
